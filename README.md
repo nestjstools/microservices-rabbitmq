@@ -13,13 +13,13 @@ Integration is built on top of `rabbitmq-client` lib
 ## Installation
 
 ```bash
-npm install @nestjstools/microservices-rabbitmq 
+npm install @nestjstools/microservices-rabbitmq @nestjs/microservices
 ```
 
 or
 
 ```bash
-yarn add @nestjstools/microservices-rabbitmq
+yarn add @nestjstools/microservices-rabbitmq @nestjs/microservices
 ```
 ## Setup your microservice
 
