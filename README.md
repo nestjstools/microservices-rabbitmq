@@ -21,6 +21,10 @@ or
 ```bash
 yarn add @nestjstools/microservices-rabbitmq @nestjs/microservices
 ```
+
+### Example repository: <br><br>https://github.com/nestjstools/microservices-rabbitmq-example
+
+
 ## Setup your microservice
 
 ---
